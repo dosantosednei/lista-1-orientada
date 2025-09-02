@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ex10
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Triangulo retangulo = new Triangulo(50, 50);
+            retangulo.CalcularResultado();
+            Console.WriteLine(retangulo.getArea());
+        }
+    }
+}
