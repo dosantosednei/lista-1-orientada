@@ -1,0 +1,8 @@
+C:\Users\Nicollas\source\repos\projPOO_ex12\projPOO_ex12\bin\Debug\projPOO_ex12.exe.config
+C:\Users\Nicollas\source\repos\projPOO_ex12\projPOO_ex12\bin\Debug\projPOO_ex12.exe
+C:\Users\Nicollas\source\repos\projPOO_ex12\projPOO_ex12\bin\Debug\projPOO_ex12.pdb
+C:\Users\Nicollas\source\repos\projPOO_ex12\projPOO_ex12\obj\Debug\projPOO_ex12.csproj.AssemblyReference.cache
+C:\Users\Nicollas\source\repos\projPOO_ex12\projPOO_ex12\obj\Debug\projPOO_ex12.csproj.CoreCompileInputs.cache
+C:\Users\Nicollas\source\repos\projPOO_ex12\projPOO_ex12\obj\Debug\projPOO_ex12.exe
+C:\Users\Nicollas\source\repos\projPOO_ex12\projPOO_ex12\obj\Debug\projPOO_ex12.pdb
+C:\Users\Nicollas\source\repos\projPOO_ex12\projPOO_ex12\obj\Debug\projPOO_ex12.exe.config
